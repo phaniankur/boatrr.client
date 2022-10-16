@@ -10,8 +10,6 @@ const Body = () => {
         <Box
         color='white'
         float='right'
-
-
         paddingTop= '0.5rem'
         paddingBottom= '0.5rem'
         fontSize={['20px', '30px']}
@@ -122,7 +120,7 @@ const Body = () => {
             paddingBottom='0.5rem'
             >
                 We are available to serve you<br/> with your queries on<br/>
-                Mail: <span style={{fontWeight: 'bold'}}>care@boatrr.in</span>
+                Mail: <span style={{fontWeight: 'bold'}}>support@boatrr.in</span>
             </Box>
             <Box
             display='flex'
