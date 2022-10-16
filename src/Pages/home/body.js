@@ -125,7 +125,7 @@ const Body = () => {
             paddingBottom='0.5rem'
             >
               Our support is available on <br/><span style={{fontWeight: 'bold'}}>Email</span> and <span style={{fontWeight: 'bold'}}>WhatsApp</span><br/>
-              Mail: <span style={{fontWeight: 'bold'}}>care@boatrr.in</span>
+              Mail: <span style={{fontWeight: 'bold'}}>support@boatrr.in</span>
             </Box>
             <Box
             display='flex'
